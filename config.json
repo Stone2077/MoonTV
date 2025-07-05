@@ -76,10 +76,13 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
     "xiami": {
-      "api": "https://zy.hls.one/api.php/provide/vod",
-      "name": "虾米资源"
-    }
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛资源"
+    },
+    "xiami": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢资源"
   }
 }
